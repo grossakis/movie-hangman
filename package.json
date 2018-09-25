@@ -1,0 +1,28 @@
+{
+  "name": "movie-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grossakis/movie-hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grossakis/movie-hangman/issues"
+  },
+  "homepage": "https://github.com/grossakis/movie-hangman#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "mongojs": "^2.6.0",
+    "request": "^2.88.0",
+    "write": "^1.0.3"
+  }
+}
